@@ -1,0 +1,6 @@
+{
+  "name": "STV Gravity System",
+  "description": "An interactive, multi-layered document parsing and gravitational RAG dashboard for STV Design Studio, featuring Tectonic Multilayer Parsing and a live Gravity Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
